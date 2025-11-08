@@ -49,7 +49,7 @@ J.nail의 브랜드 이미지를 중심으로 한 메인 페이지(index.html)�
 ✅ 웹/모바일 버전 각각에 맞춘 레이아웃 분리 (info-list, mobile-info)<br>
 ✅ 반응형으로 항목 자동 숨김 및 정렬 변경<br>
 ✅ 하단 저작권 표시 (© 2025 J.nail)<br>
-
+<br>
 <h3>🛠 사용 기술</h3>
 ✅ Frontend: HTML5, CSS3<br>
 ✅ UI Framework: Bootstrap<br>
