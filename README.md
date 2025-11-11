@@ -63,7 +63,7 @@ J.nail의 브랜드 이미지를 중심으로 한 메인 페이지(index.html)�
 ✅ 배포 URL: https://jnail.netlify.app/<br>
 <br>
 <br>
-<h3>Improvement</h3>
+<h3>📈 Improvement</h3>
 🔧 loading="lazy" 속성을 적용해 이미지 지연 로딩(Lazy Loading)을 구현하였으며,<br>
 Largest Contentful Paint(LCP) 지표를 1.18 s → 1.00 s (약 15 % 개선) 으로 단축했습니다.<br>
 초기 렌더링 속도를 향상시켜 사용자 경험을 개선했습니다.<br>
@@ -73,5 +73,6 @@ Largest Contentful Paint(LCP) 지표를 1.18 s → 1.00 s (약 15 % 개선) 으�
 단순한 구현을 넘어 시각적 완성도와 사용자 경험(UX)을 함께 고려한 구조를 목표로 제작되었습니다.  <br>
 J.nail의 브랜드 철학을 전 세계로 확장할 수 있는 웹 기반의 첫 걸음입니다. 🌎<br>
 <br>
+
 > <h6>🔖 참고 디자인: 본 프로젝트의 Footer 레이아웃은 Spotify 공식 웹사이트(https://www.spotify.com)의 구조를 분석하여,
 > 정보 구성을 단순화하고 브랜드 스타일에 맞게 재해석하였습니다.</h6>
